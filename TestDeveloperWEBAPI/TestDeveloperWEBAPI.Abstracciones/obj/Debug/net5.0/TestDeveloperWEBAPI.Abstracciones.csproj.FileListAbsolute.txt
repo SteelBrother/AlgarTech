@@ -1,0 +1,15 @@
+C:\Users\LARTE GAMER\source\repos\TestDeveloperWEBAPI\TestDeveloperWEBAPI.Abstracciones\bin\Debug\net5.0\TestDeveloperWEBAPI.Abstracciones.deps.json
+C:\Users\LARTE GAMER\source\repos\TestDeveloperWEBAPI\TestDeveloperWEBAPI.Abstracciones\bin\Debug\net5.0\TestDeveloperWEBAPI.Abstracciones.runtimeconfig.json
+C:\Users\LARTE GAMER\source\repos\TestDeveloperWEBAPI\TestDeveloperWEBAPI.Abstracciones\bin\Debug\net5.0\TestDeveloperWEBAPI.Abstracciones.runtimeconfig.dev.json
+C:\Users\LARTE GAMER\source\repos\TestDeveloperWEBAPI\TestDeveloperWEBAPI.Abstracciones\bin\Debug\net5.0\TestDeveloperWEBAPI.Abstracciones.dll
+C:\Users\LARTE GAMER\source\repos\TestDeveloperWEBAPI\TestDeveloperWEBAPI.Abstracciones\bin\Debug\net5.0\ref\TestDeveloperWEBAPI.Abstracciones.dll
+C:\Users\LARTE GAMER\source\repos\TestDeveloperWEBAPI\TestDeveloperWEBAPI.Abstracciones\bin\Debug\net5.0\TestDeveloperWEBAPI.Abstracciones.pdb
+C:\Users\LARTE GAMER\source\repos\TestDeveloperWEBAPI\TestDeveloperWEBAPI.Abstracciones\obj\Debug\net5.0\TestDeveloperWEBAPI.Abstracciones.csprojAssemblyReference.cache
+C:\Users\LARTE GAMER\source\repos\TestDeveloperWEBAPI\TestDeveloperWEBAPI.Abstracciones\obj\Debug\net5.0\TestDeveloperWEBAPI.Abstracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LARTE GAMER\source\repos\TestDeveloperWEBAPI\TestDeveloperWEBAPI.Abstracciones\obj\Debug\net5.0\TestDeveloperWEBAPI.Abstracciones.AssemblyInfoInputs.cache
+C:\Users\LARTE GAMER\source\repos\TestDeveloperWEBAPI\TestDeveloperWEBAPI.Abstracciones\obj\Debug\net5.0\TestDeveloperWEBAPI.Abstracciones.AssemblyInfo.cs
+C:\Users\LARTE GAMER\source\repos\TestDeveloperWEBAPI\TestDeveloperWEBAPI.Abstracciones\obj\Debug\net5.0\TestDeveloperWEBAPI.Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\LARTE GAMER\source\repos\TestDeveloperWEBAPI\TestDeveloperWEBAPI.Abstracciones\obj\Debug\net5.0\TestDeveloperWEBAPI.Abstracciones.dll
+C:\Users\LARTE GAMER\source\repos\TestDeveloperWEBAPI\TestDeveloperWEBAPI.Abstracciones\obj\Debug\net5.0\ref\TestDeveloperWEBAPI.Abstracciones.dll
+C:\Users\LARTE GAMER\source\repos\TestDeveloperWEBAPI\TestDeveloperWEBAPI.Abstracciones\obj\Debug\net5.0\TestDeveloperWEBAPI.Abstracciones.pdb
+C:\Users\LARTE GAMER\source\repos\TestDeveloperWEBAPI\TestDeveloperWEBAPI.Abstracciones\obj\Debug\net5.0\TestDeveloperWEBAPI.Abstracciones.genruntimeconfig.cache
